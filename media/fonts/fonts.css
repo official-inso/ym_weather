@@ -1,0 +1,64 @@
+@font-face {
+  src: local("feather.woff"), url("feather.woff");
+  font-family: 'ico';
+}
+
+@font-face {
+  src: url("GothamPro-Black.woff");
+  font-family: 'gBlack';
+}
+
+@font-face {
+  src: url("GothamPro-MediumItalic.woff");
+  font-family: 'gMediumItalic';
+}
+
+@font-face {
+  src: url("GothamPro.woff");
+  font-family: 'g';
+}
+
+@font-face {
+  src: url("GothamPro-BoldItalic.woff");
+  font-family: 'gBoldItalic';
+}
+
+@font-face {
+  src: url("GothamPro-BlackItalic.woff");
+  font-family: 'gBlackItalic';
+}
+
+@font-face {
+  src: url("GothamProNarrow-Bold.woff");
+  font-family: 'gNBold';
+}
+
+@font-face {
+  src: url("GothamPro-Medium.woff");
+  font-family: 'gMedium';
+}
+
+@font-face {
+  src: url("GothamPro-LightItalic.woff");
+  font-family: 'gLightItalic';
+}
+
+@font-face {
+  src: url("GothamPro-Bold.woff");
+  font-family: 'gBold';
+}
+
+@font-face {
+  src: url("GothamProNarrow-Medium.woff");
+  font-family: 'gNMedium';
+}
+
+@font-face {
+  src: url("GothamPro-Italic.woff");
+  font-family: 'gItalic';
+}
+
+@font-face {
+  src: url("GothamPro-Light.woff");
+  font-family: 'gLight';
+}
